@@ -262,11 +262,3 @@ indicium-data-challenge/
 ```
 
 ---
-
-## 👤 Autor
-
-**Rafael Silva Lemos Ferreira**
-
-Projeto desenvolvido para o processo seletivo técnico da Indicium.
-
-[GitHub](https://github.com/rlemos-dev) · [Repositório do projeto](https://github.com/rlemos-dev/indicium-data-challenge)

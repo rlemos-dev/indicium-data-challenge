@@ -207,6 +207,31 @@ python recomendacao_produtos.py
 
 Abra `05_dashboard/Dashboard_Indicium.pbix` no Power BI Desktop. Se optar por reconectar as fontes de dados (em vez de usar o arquivo já carregado), ajuste a string de conexão do PostgreSQL nas configurações da fonte de dados do próprio Power BI.
 
+## 📈 Dashboard
+
+O `Dashboard_Indicium.pbix` está organizado em 7 páginas:
+
+### 1. Qualidade dos Dados
+![Qualidade dos Dados](assets/01_qualidade_dados.png)
+
+### 2. Clientes de Alto Valor e Categorias
+![Clientes de Alto Valor](assets/02_clientes_elite.png)
+
+### 3. Lucro por Cliente
+![Lucro por Cliente](assets/03_lucro_cliente.png)
+
+### 4. Análise Semanal
+![Análise Semanal](assets/04_analise_semanal.png)
+
+### 5. Prejuízo por Produto
+![Prejuízo por Produto](assets/05_prejuizo_produto.png)
+
+### 6. Previsão de Demanda
+![Previsão de Demanda](assets/06_previsao_demanda.png)
+
+### 7. Similaridade de Produtos
+![Similaridade de Produtos](assets/07_similaridade_produtos.png)
+
 ---
 
 ## 📁 Estrutura de Pastas
